@@ -19,3 +19,5 @@ let richCountry2=[...developingCountry,'America','China','Japan'];
 
 let allCountry=[...developingCountry,...richCountry2];
 console.log(allCountry);
+
+console.log(developingCountry);
